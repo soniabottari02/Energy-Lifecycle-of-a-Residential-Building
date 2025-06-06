@@ -1,0 +1,3 @@
+cd "C:\Users\bstef\OneDrive\Desktop\progetto_ept_with_financial_plan"
+venv\Scripts\activate
+streamlit run app_ept_with_financial_plan.py
